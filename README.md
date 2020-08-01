@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://tenor.com/bfAQZ.gif" alt="You found me!"/>
+</p>
 
 <!--
 **0xEval/0xeval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
