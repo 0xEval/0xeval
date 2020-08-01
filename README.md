@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/lPuW5AlR9AeWzSsIqi/giphy.gif" alt="You found me!"/>
+  <img src="https://media.giphy.com/media/ii7R0hFjKIS4poVDrk/giphy.gif" alt="Hello there"/>
 </p>
 
 <!--
