@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-I’m a security engineer, problem solver and coffee enthusiast. I currently work as a Staff Security Engineer at GrabTaxi Holdings. 
+I’m a security engineer, problem solver and coffee enthusiast. 
 
 - 📱 I’m currently working as Application Security Engineer for a FinTech company.
 - 🤓 I’m currently learning crypto-related technologies.
