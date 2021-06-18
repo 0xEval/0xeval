@@ -1,18 +1,11 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/ii7R0hFjKIS4poVDrk/giphy.gif" alt="Hello there"/>
-</p>
+<img align="right" src="https://media.giphy.com/media/ii7R0hFjKIS4poVDrk/giphy.gif" width=350px height=465px/>
 
-<!--
-**0xEval/0xeval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there 👋
 
-Here are some ideas to get you started:
+I’m a security engineer, problem solver and coffee enthusiast. I currently work as a Staff Security Engineer at GrabTaxi Holdings. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 I’m currently working as Application Security Engineer for a FinTech company.
+- 🤓 I’m currently learning crypto-related technologies.
+- 💬  Ask me about iOS development, Swift, accessibility.
+- 📫  How to reach me: DM on Twitter [@Eval](twitter.com/0xEval)
+-🏽‍🧗 Fun fact: I love rock-climbing and I will one-day climb in the double digits 🙏
