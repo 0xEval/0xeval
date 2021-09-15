@@ -6,5 +6,5 @@ I’m a security engineer, problem solver and coffee enthusiast.
 
 - 📱 I’m currently working as Application Security Engineer for a FinTech company.
 - 🤓 I’m currently learning crypto-related technologies.
-- 📫 How to reach me: DM on Twitter [twitter.com/0xEval](twitter.com/0xEval)
+- 📫 How to reach me: DM on Twitter [https://www.twitter.com/0xEval](twitter.com/0xEval)
 - 🧗 Fun fact: I love rock-climbing and the outdoors
