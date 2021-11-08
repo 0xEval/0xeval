@@ -1,10 +1,19 @@
-<img align="right" src="https://media.giphy.com/media/ii7R0hFjKIS4poVDrk/giphy.gif" width=400px height=250px/>
+<div align="center">
+<img src="https://media.giphy.com/media/ii7R0hFjKIS4poVDrk/giphy.gif" width=400px height=250px/>
+</div>
 
-### Hi, I am Eval 👋
+<p align="center">
+<b><a href="https://twitter.com/0xeval">DM on Twitter</a></b>
+•
+<b><a href="https://0xeval.netlify.app">Browse my Blog</a></b>
+</p>
 
-I’m a security engineer, problem solver and coffee enthusiast. 
+<p align="center">
+<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+</p>
 
-- 📱 I’m currently working as Application Security Engineer for a FinTech company.
-- 🤓 I’m currently learning crypto-related technologies.
-- 📫 How to reach me: DM on Twitter [twitter.com/0xEval](https://www.twitter.com/0xEval)
-- 🧗 Fun fact: I love rock-climbing and the outdoors
+<div align='center'>
+<b>Application Security Engineer & Rust apprentice</b><br>
+<b>“If you don't believe it or don't get it, I don't have the time to try to convince you, sorry.”</b>
+</div>
