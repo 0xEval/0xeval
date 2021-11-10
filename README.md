@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://lh3.googleusercontent.com/proxy/KehJ0KhsfcfY3n6Ntxv4NWuBstKU2qU8BdbqZ4KR58cNzBmkf5WOZvobqiPwojwz83bPQM-r5tyC_xHQb_YhY6im13vL5uxZiIgQlgMlZBJ_LZlx3xyB1AkOLIxqzGE3QnMnPxz0" width=275px height=400px/>
+<img src="https://github.com/0xEval/0xeval/blob/master/banner.gif" width=450px height=291px/>
 </div>
 
 <p align="center">
