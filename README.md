@@ -15,6 +15,6 @@
 </p>
 
 <div align='center'>
-<b>Application Security Engineer | Solidity/Rust apprentice</b><br>
+<b>Application Security Engineer & Solidity/Rust apprentice</b><br>
 <b>“If you don't believe it or don't get it, I don't have the time to try to convince you, sorry.”</b>
 </div>
