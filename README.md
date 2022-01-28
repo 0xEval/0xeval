@@ -5,7 +5,7 @@
 <p align="center">
 <b><a href="https://twitter.com/0xeval">DM on Twitter</a></b>
 •
-<b><a href="https://0xeval.netlify.app">Browse my Blog</a></b>
+<b><a href="https://eval.hashnode.dev/">Browse my Blog</a></b>
 </p>
 
 <p align="center">
