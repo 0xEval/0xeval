@@ -1,22 +1,15 @@
-<div align="center">
-<img src="https://github.com/0xEval/0xeval/blob/master/banner.gif" width=450px height=291px/>
-</div>
+## `> ./hello_world.sh`
 
-<p align="center">
-<b><a href="https://twitter.com/0xeval">DM on Twitter</a></b>
-•
-<b><a href="https://blog.0xeval.me/">Browse my Blog</a></b>
-</p>
+### `> whoami`
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-EFC656.svg?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/rust-DD5527.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-1E1E1E?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-5CA4E6?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-</p>
+- `REST Archmeister, county lord of HTTP`
+- `Student of the Dark Arts -> Pentest\Redteam\Tooling`
+- `Wannabe BSC-fork Whitehat`
 
-<div align='center'>
-<b>Application Security Engineer | Solidity/Rust Apprentice | Decentralized Economy</b><br>
-<b>“If you don't believe it or don't get it, I don't have the time to try to convince you, sorry.”</b>
-</div>
+### `> ls -l /usr/local/bin`
+![Python Badge](https://img.shields.io/badge/Python-EFC656.svg?style=for-the-badge&logo=python&logoColor=black)![Rust Badge](https://img.shields.io/badge/rust-DD5527.svg?&style=for-the-badge&logo=rust&logoColor=white)![Solidity Badge](https://img.shields.io/badge/Solidity-1E1E1E?style=for-the-badge&logo=solidity&logoColor=white)![VS Code Badge](https://img.shields.io/badge/VSCode-5CA4E6?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Neovim Badge](https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white), `and more ...`
+
+### `> gh info`
+
+[![0xEval' GitHub stats](https://github-readme-stats.vercel.app/api?username=0xeval&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/0xeval) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xeval&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/bugahontas) 
+| ----------- | ------------ |
