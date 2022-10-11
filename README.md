@@ -1,10 +1,20 @@
-## `> ./hello_world.sh`
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70202&width=435&lines=Hello+there!)](https://git.io/typing-svg)
 
 ### `> whoami`
 
-- `REST Archmeister, county lord of HTTP`
-- `Student of the Dark Arts -> Pentest\Redteam\Tooling`
-- `Wannabe BSC-fork Whitehat`
+```
+├── REST Archmeister, county lord of HTTP
+├── Student of the Dark Arts -> Pentest\Redteam\Tooling
+└── Wannabe BSC-fork Whitehat
+```
+
+### `> linkfinder`
+
+```
+├── https://blog.0xeval.me                      # Write-ups || Projects || Ramblings
+├── https://twitter.com/0xEval                  # Forks || Rugs || DeFi
+└── https://app.hackthebox.com/profile/20856    # Most <3 Boot2Root platform
+```
 
 ### `> ls -l /usr/local/bin`
 ![Python Badge](https://img.shields.io/badge/Python-EFC656.svg?style=for-the-badge&logo=python&logoColor=black)![Rust Badge](https://img.shields.io/badge/rust-DD5527.svg?&style=for-the-badge&logo=rust&logoColor=white)![Solidity Badge](https://img.shields.io/badge/Solidity-1E1E1E?style=for-the-badge&logo=solidity&logoColor=white)![VS Code Badge](https://img.shields.io/badge/VSCode-5CA4E6?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Neovim Badge](https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white), `and more ...`
