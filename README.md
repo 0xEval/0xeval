@@ -21,5 +21,5 @@
 
 ### `> gh info`
 
-[![0xEval' GitHub stats](https://github-readme-stats.vercel.app/api?username=0xeval&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/0xeval) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xeval&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/bugahontas) 
+[![0xEval' GitHub stats](https://github-readme-stats.vercel.app/api?username=0xeval&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/0xeval) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xeval&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/0xeval) 
 | ----------- | ------------ |
