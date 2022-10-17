@@ -17,7 +17,7 @@
 ```
 
 ### `> ls -l /usr/local/bin`
-![Python Badge](https://img.shields.io/badge/Python-EFC656.svg?style=for-the-badge&logo=python&logoColor=black)![Rust Badge](https://img.shields.io/badge/rust-DD5527.svg?&style=for-the-badge&logo=rust&logoColor=white)![Solidity Badge](https://img.shields.io/badge/Solidity-1E1E1E?style=for-the-badge&logo=solidity&logoColor=white)![VS Code Badge](https://img.shields.io/badge/VSCode-5CA4E6?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Neovim Badge](https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)`
+![Python Badge](https://img.shields.io/badge/Python-EFC656.svg?style=for-the-badge&logo=python&logoColor=black)![Rust Badge](https://img.shields.io/badge/rust-DD5527.svg?&style=for-the-badge&logo=rust&logoColor=white)![Solidity Badge](https://img.shields.io/badge/Solidity-1E1E1E?style=for-the-badge&logo=solidity&logoColor=white)![VS Code Badge](https://img.shields.io/badge/VSCode-5CA4E6?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Neovim Badge](https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ### `> gh info`
 
