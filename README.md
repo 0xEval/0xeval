@@ -5,7 +5,7 @@
 ```
 ├── REST Archmeister, county lord of HTTP
 ├── Student of the Dark Arts -> Pentest\Redteam\Tooling
-└── Wannabe BSC-fork Whitehat
+└── Climber of mountains and big rocks
 ```
 
 ### `> linkfinder`
