@@ -11,9 +11,9 @@
 ### `> linkfinder`
 
 ```
-├── https://blog.0xeval.me                      # Write-ups || Projects || Ramblings
-├── https://twitter.com/0xEval                  # Forks || Rugs || DeFi
-└── https://app.hackthebox.com/profile/20856    # Most <3 Boot2Root platform
+├── https://blog.0xeval.me
+├── https://twitter.com/0xEval
+└── https://app.hackthebox.com/profile/20856
 ```
 
 ### `> ls -l /usr/local/bin`
